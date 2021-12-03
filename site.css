@@ -2732,7 +2732,7 @@ html.fullscreen-bg #wrapper {
     -ms-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
-    background-color: #f9f9f9ba;
+    background-color: #f8f9faf2;
     width: 230px;
     height: 100%;
     float: left;
